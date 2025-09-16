@@ -5,7 +5,7 @@ import "semantic-ui"
 import "@hotwired/turbo-rails"
 import "controllers"
 
-document.addEventListener("turbo:load", () => {
+$(document).on("turbo:load", () => {
     $('.ui.menu').tab();
     $('.ui.dropdown').dropdown();
     $('.ui.checkbox').checkbox();
