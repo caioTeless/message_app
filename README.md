@@ -1,24 +1,7 @@
-# README
+Utilizado Crud básico e ActionCable para mostrar as mensagens.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CHATROOM 
+<img width="1711" height="774" alt="image" src="https://github.com/user-attachments/assets/024d4705-a91e-44ed-8300-37e0860211d2" />
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tela de LOGIN
+<img width="1642" height="732" alt="image" src="https://github.com/user-attachments/assets/60fc8865-e73c-4609-8e36-28c4e3003e41" />
